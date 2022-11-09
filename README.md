@@ -1,1 +1,2 @@
 # odin-recipes
+I'll be setting up a recipe site  that will be made prettier using CSS later on. I'll be using what I've learned util now with the OTP, specifically how to structure a site directory header, lists, links, images etc..
